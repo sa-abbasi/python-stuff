@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/src/PythonStuff/env1
+/src/PythonStuff/logs
+/src/.vs
